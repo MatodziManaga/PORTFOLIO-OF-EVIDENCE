@@ -69,9 +69,19 @@ chefs-table/
 | Stale errors after moving files | Run `npx expo start -c` |# PORTFOLIO-OF-EVIDENCE 
 
 
+
+
+
 Changes from your Part 2 code
 
 I renamed Mains, Starters and Desserts to Main Course, Starter and Dessert, as the brief specifies.
 The course dropdown was static. It’s now a working three-option picker.
 I replaced the “Popular” filter with the course filter, since the brief asks for course filtering. The 🔥 Popular badge on dishes is still there.
 I replaced inset: 0 with explicit top/left/right/bottom, because older React Native versions don’t support inset.
+
+
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-06 at 09 36 30" src="https://github.com/user-attachments/assets/d2e09367-c2f8-4f71-8c74-e84ca89ef469" /><img width="1600" height="1200" alt="WhatsApp Image 2026-11-06 at 09 36 31 (1)" src="https://github.com/user-attachments/assets/629b95a5-0065-4c20-aa94-49a75ac3b1f0" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-06 at 09 36 31 (3)" src="https://github.com/user-attachments/assets/3c1dc226-bfd7-4948-9386-3c689bcbcaa2" />
+
+
